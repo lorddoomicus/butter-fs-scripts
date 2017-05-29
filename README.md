@@ -1,8 +1,8 @@
 # BTRFS performance and maintenance 
 
 This is a couple of scrtips for the blog post:
- 
-http://www.doomd.net/2014/03/some-testing-with-btrfs.html
+
+https://www.doomd.net/2013/12/some-testing-with-btrfs.html 
 
 Which is about *Some Testing with BTRFS* 
 
