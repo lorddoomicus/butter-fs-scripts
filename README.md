@@ -2,7 +2,7 @@
 
 This is a couple of scrtips for the blog post:
 
-https://www.doomd.net/2013/12/some-testing-with-btrfs.html 
+https://github.com/lorddoomicus/butter-fs-scripts
 
 Which is about *Some Testing with BTRFS* 
 
